@@ -1,0 +1,13 @@
+{
+  "leve": [
+    {
+      "codigo": 0,
+      "infração": "",
+      "valor": 0.1
+    }
+  ],
+  "média": [],
+  "grave": [],
+  "gravissima": [],
+  "autoSuspensiva": []
+}
